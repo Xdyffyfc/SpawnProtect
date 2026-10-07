@@ -1,0 +1,10 @@
+region:
+  world: "world"
+  min:
+    x: -4
+    y: 83
+    z: -4
+  max:
+    x: 4
+    y: 100
+    z: 4

@@ -1,0 +1,9 @@
+name: SpawnProtect
+version: 1.0
+main: com.spawnprotect.SpawnProtect
+api-version: 1.21
+authors:
+  - CHUYUE_Rex
+website: https://space.bilibili.com/3706993644669025
+description: 出生点保护
+load: POSTWORLD
